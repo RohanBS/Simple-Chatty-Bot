@@ -1,0 +1,21 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Main {
+        public static void main(String[] args) {
+            // put your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2923
+status: Failed
+feedback:
+  message: "Failed test #1 of 2. Runtime error\n\nThis is a sample test from the problem\
+    \ statement!\n\nTest input:\nHello\nJava\nFuture programmer\nCorrect output:\n\
+    Hello\nJava\nFuture\nprogrammer\n\nYour code output:\n\n\nError:\nException in\
+    \ thread \"main\" java.util.NoSuchElementException\n\tat java.base/java.util.Scanner.throwFor(Scanner.java:937)\n\
+    \tat java.base/java.util.Scanner.next(Scanner.java:1478)\n\tat Main.main(Main.java:7)\n"
+  time: Mon, 28 Sep 2020 12:04:14 UTC
+record: -1
